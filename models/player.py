@@ -13,4 +13,8 @@ class Player():
     #heatmap data?
     #tpa?
 
+    #nba_py.player.PlayerShootingSplits
+    #nba_py.player.PlayerPerformanceSplits
+    #nba_py.player.PlayerPassTracking
+    #nba_py.player.PlayerDefenseTracking
 
